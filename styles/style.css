@@ -347,14 +347,13 @@
   height: 80px;
 }
 .footer__column-heading {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 0 20px;
 }
 .footer__list {
   /* O código abaixo remove os estilos do navegador padrão para listas */
   list-style-type: none;
   padding: 0;
-  margin: 4px 0 0;
+  margin: 0;
 }
 .footer__list-item {
   margin-top: 16px;
